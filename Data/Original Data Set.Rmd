@@ -1,0 +1,8 @@
+#Loading data
+
+setwd("C:/Users/34689/Documents/Safety-in-ethnic-minority-groups/Data")
+
+library(haven)
+
+data<-read.csv('Data9rounds.csv')
+
